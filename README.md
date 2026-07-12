@@ -3,7 +3,7 @@
 
 GoPay版本演示地址：
 
-运营端：[[https://demo4.pay4j.com](https://demo4.pay4j.com)](https://demo4.pay4j.com) 账号:admin 登录密码：admin123 
+运营端：[https://demo4.pay4j.com](https://demo4.pay4j.com) 账号:admin 登录密码：admin123 
 
 代理端： 账号：agent1 登录密码：a123123123
 
